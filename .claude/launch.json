@@ -4,7 +4,7 @@
     {
       "name": "oetzibar-website",
       "runtimeExecutable": "npx",
-      "runtimeArgs": ["--yes", "serve", "-l", "5188", "website"],
+      "runtimeArgs": ["--yes", "serve", "-l", "5188", "docs"],
       "port": 5188
     }
   ]
