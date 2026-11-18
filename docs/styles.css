@@ -203,6 +203,20 @@ h2 {
   display: block; font-style: normal; font-size: 13px; color: var(--muted); font-weight: 300;
 }
 .menu-list .price { white-space: nowrap; font-weight: 500; color: var(--charcoal); }
+.menu-hint {
+  font-family: var(--font-serif); font-style: italic; font-size: 17px; color: var(--muted);
+  margin: -8px 0 6px;
+}
+.menu-list .dish em.dish-tag {
+  font-size: 11px; letter-spacing: .2em; text-transform: uppercase; font-weight: 500;
+  color: var(--accent); margin-top: 3px;
+}
+.menu-sweet-below { margin-top: 16px; }
+.menu-download { margin-top: 56px; text-align: center; }
+.menu-download p {
+  font-family: var(--font-serif); font-style: italic; font-size: 19px; color: var(--muted);
+  margin: 0 auto 20px;
+}
 
 /* Sheep section */
 .section-sheep { background: linear-gradient(180deg, var(--paper) 0%, #eef0e9 100%); }
