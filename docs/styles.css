@@ -207,10 +207,6 @@ h2 {
   font-family: var(--font-serif); font-style: italic; font-size: 17px; color: var(--muted);
   margin: -8px 0 6px;
 }
-.menu-list .dish em.dish-tag {
-  font-size: 11px; letter-spacing: .2em; text-transform: uppercase; font-weight: 500;
-  color: var(--accent); margin-top: 3px;
-}
 .menu-sweet-below { margin-top: 16px; }
 .menu-download { margin-top: 56px; text-align: center; }
 .menu-download p {
